@@ -1,5 +1,5 @@
 {
-  "name": "slides-private",
+  "name": "slides",
   "type": "module",
   "private": true,
   "workspaces": [
