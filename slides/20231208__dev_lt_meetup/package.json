@@ -1,0 +1,14 @@
+{
+  "name": "20231208__dev_lt_meetup",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.45.0",
+    "@slidev/theme-apple-basic": "latest"
+  }
+}

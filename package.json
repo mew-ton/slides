@@ -1,0 +1,13 @@
+{
+  "name": "slides-private",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "slides/*"
+  ],
+  "packageManager": "yarn@4.0.2",
+  "volta": {
+    "node": "20.10.0",
+    "yarn": "4.0.2"
+  }
+}

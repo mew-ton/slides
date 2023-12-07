@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "extensions": {
+    "unwantedRecommendations": [
+      "DavidAnson.vscode-markdownlint"
+    ]
+  }
+}
